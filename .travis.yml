@@ -4,4 +4,4 @@ python:
 
 script:
   - python -m unittest merge_sort.test
-  - python -m unittest reversell.test
+  - python -m unittest reverse_ll.test
