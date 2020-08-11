@@ -1,5 +1,9 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
+        if n is None:
+            return False
+        if n == 1:
+            return True
         seen_list = []
         while(n != 1):
             if n in seen_list:

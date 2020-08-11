@@ -9,4 +9,4 @@ class HappyTest(unittest.TestCase):
    
     def test_false(self):
         self.solution = Solution()
-        self.assertEqual(self.solution.isHappy(1), False)
+        self.assertEqual(self.solution.isHappy(5), False)
