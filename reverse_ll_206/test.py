@@ -13,4 +13,4 @@ class ReverseTest(unittest.TestCase):
         while reversed_head is not None:
             reversed_list.append(reversed_head.val)
             reversed_head = reversed_head.next
-        self.assertEqual(reversed_list, [5,4,3,2,1])
+        self.assertEqual(reversed_list, [5, 4, 3, 2, 1])
