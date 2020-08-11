@@ -1,5 +1,5 @@
 import unittest
-from reverse_ll.main import generatelist, Solution
+from reverse_ll_206.main import generatelist, Solution
 
 
 class ReverseTest(unittest.TestCase):

@@ -4,4 +4,5 @@ python:
 
 script:
   - python -m unittest merge_sort.test
-  - python -m unittest reverse_ll.test
+  - python -m unittest reverse_ll_206.test
+  - python -m unittest happy_number_202.test
