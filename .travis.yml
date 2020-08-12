@@ -3,7 +3,7 @@ python:
   - "3.7"
 
 script:
-  - pytest tests/
+  - pytest count_primes_204/test.py
   # - python -m unittest happy_number_202.test
   # - python -m unittest merge_sort.test
   # - python -m unittest reverse_ll_206.test
