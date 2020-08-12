@@ -1,6 +1,5 @@
 import unittest
-# from ..happy_number_202.main import Solution
-from ..happy_number_202.main import Solution
+from main import Solution
 
 
 class HappyTest(unittest.TestCase):
