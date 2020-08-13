@@ -8,3 +8,4 @@ script:
   - pytest merge_sort/
   - pytest reverse_ll_206/
   - pytest rotate_array_189/
+  - pytest valid_palindrome_125/
