@@ -7,3 +7,4 @@ script:
   - pytest happy_number_202/
   - pytest merge_sort/
   - pytest reverse_ll_206/
+  - pytest reverse_array_189/
