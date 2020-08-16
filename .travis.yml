@@ -9,3 +9,4 @@ script:
   - pytest reverse_ll_206/
   - pytest rotate_array_189/
   - pytest valid_palindrome_125/
+  - pytest buy_sell_stock_121/
