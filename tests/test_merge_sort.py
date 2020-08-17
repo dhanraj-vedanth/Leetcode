@@ -1,5 +1,5 @@
 import unittest
-from sorterr import Mergesort
+from merge_sort.sorterr import Mergesort
 
 
 class TestMerge(unittest.TestCase):

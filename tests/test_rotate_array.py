@@ -1,4 +1,4 @@
-from main import Solution
+from rotate_array_189.main import Solution
 
 
 def test_rotate_pass():

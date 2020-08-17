@@ -1,6 +1,5 @@
 # import unittest
-# from count_primes_204.main import Solution
-from main import Solution
+from count_primes_204.main import Solution
 
 
 def test_count_primt():

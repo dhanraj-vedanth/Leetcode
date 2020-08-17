@@ -3,10 +3,4 @@ python:
   - "3.7"
 
 script:
-  - pytest count_primes_204/
-  - pytest happy_number_202/
-  - pytest merge_sort/
-  - pytest reverse_ll_206/
-  - pytest rotate_array_189/
-  - pytest valid_palindrome_125/
-  - pytest buy_sell_stock_121/
+  - pytest

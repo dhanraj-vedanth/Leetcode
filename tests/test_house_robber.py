@@ -1,4 +1,4 @@
-from main import Solution
+from house_robber_198.main import Solution
 
 
 def test_house_success():

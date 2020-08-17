@@ -1,4 +1,4 @@
-from main import Solution
+from buy_sell_stock_121.main import Solution
 
 
 def test_working_case():
